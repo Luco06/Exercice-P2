@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">  
+
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <title>Urban and co</title>
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="https://www.kickz.com/fr/support/static/sale">Solde</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="https://www.kickz.com/fr/support/static/homepage-women">Femme</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.kickz.com/fr/support/static/homepage-men">Homme</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.kickz.com/fr/support/static/homepage-kids">Enfant</a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Panier</a>
+        <li class="nav-item">
+        <a class="nav-link" href="Formulaire.html">Identifiez-vous</a>
+      </li>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Recherche</button>
+    </form>
+  </div>
+</nav>
+
+    <h1 class="display-2">Urban and co</h1>
+   <h2>La mode urbaine</h2>
+   <div class="Solde">
+    <h3>Solde jusqu'à -70% sur absolument tout!!</h3>
+    <h2>Livraison et retour offert*.</h2></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6"><img src="https://i.pinimg.com/736x/36/7b/ab/367bab78c3b9ee23ef5b8f8c331bbd9e.jpg"></div>
+          <div class="col-sm-6"><img src="https://pbs.twimg.com/media/DRICVFZVwAAgChX.jpg"></div>
+        </div>
+      <div class="row">
+        <div class="col-sm-6"><img src="https://i.pinimg.com/736x/82/6c/c7/826cc74e38a71de63e507123e1f11088--biker-style-nuest-jr.jpg"></div>
+        <div class="col-sm-6"><img src="https://i.pinimg.com/736x/ee/99/0b/ee990b00b70069b0d239f6c460f00f20--fashionista-kids-kid-models.jpg"></div>
+      </div>
+    </div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Contactez-nous</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#">A propos de nous</a>
+      <a class="nav-item nav-link" href="https://www.zalando.fr/aide?path=/Guide-des-tailles/">Guide des tailles</a>
+      <a class="nav-item nav-link disabled" href="#">remboursement</a>
+    </div>
+  </div>
+</nav>
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+  </body>
+</html>
