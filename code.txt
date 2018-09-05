@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+	<title>Apple</title>
+	<meta charset="UTF-8">
+	<style type="text/css">
+*{
+font-family: 'Questrial', sans-serif;
+
+}
+nav{
+height: 48px;
+background-color:#333;
+color: #ccc;
+}
+nav li{
+display: inline;
+line-height: 40px;
+color: rgb(255,255,255);
+margin-left: 2rem;
+}
+nav a { text-decoration: none;
+	color: rgb(255,255,255);
+}
+h1{line-height: 70px;
+	}
+h2{line-height: 70px;
+	}
+h3{line-height: 70px;
+}
+h4{line-height: 7px}	
+h1{text-align: center;
+}
+h2{text-align: center;
+}
+h3{text-align: center;
+	color: #F60A0A;
+}
+h4{text-align:	center;}
+
+.image img{
+	width: 100%;
+}
+.image{
+width: 90%;
+margin:auto;
+}
+
+
+</style>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href=" https://www.apple.com/fr/mac/">Mac</a></li> 
+			<li><a href=" https://www.apple.com/fr/ipad/">Ipad</a></li>
+			<li><a href="https://www.apple.com/fr/iphone/">Iphone</a></li>
+			<li><a href="https://www.apple.com/fr/watch/">Watch</a></li>
+			<li><a href="https://www.apple.com/fr/music/">Music</a></li>
+			<li><a href="https://www.apple.com/fr/tv/">TV</a></li>
+			<li><a href="https://support.apple.com/fr-fr">Assistance</a></li>
+		</ul>
+	</nav>
+	<h1>IphoneX</h1>
+	<h2>Dites bonjour au futur.</h2>
+<div class="image"> 
+<img src="https://www.apple.com/v/iphone-x/e/images/meta/og.png?201712200551 ">
+<h1>Iphone8</h1>
+<h2>Une nouvelle génération d'Iphone.</h2>
+<img src="https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone8/gallery1/iphone8-gallery1-2017?wid=2000&hei=1536&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1506703285757">
+<h1>Watch</h1>
+<h3>Serie 3</h3>
+<h2>L'appel de la liberté.</h2>
+<div class="imagecentre">
+<img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqWutqeh6UUxvDCEKgGEqPRlVru1k7HLJdmu59Ohgcf2h_wVw">
+<h2>Tv 4K</h2>
+<h4>La 4K HDR. Maintenant sur écran.</h4>
+<img src="https://tctechcrunch2011.files.wordpress.com/2017/09/4k_screen_and_appletv.jpg">
+<img src="http://www.blog-nouvelles-technologies.fr/wp-content/uploads/2017/06/wwdc-17-apple-presente-ipad-pro-1.jpg">
+<h2>IMac Pro</h2>
+<h4>Maintenant disponible.</h4>
+<img src="https://img.purch.com/imac-pro/w/755/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS9HL1gvNzM2NzM3L29yaWdpbmFsL2lNYWMtUHJvLmpwZw==">
+<div class="h1,h2">
+</div>
+</body>	
+</html>
